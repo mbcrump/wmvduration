@@ -1,8 +1,12 @@
 Duration of WMV Files
 ===========
 Description: This is a command-line utility that will return the total duration of WMV files in a directory. 
-Usage at console prompt: WMVDuration C:\WMVLOCATION
+
+Usage at console prompt: "WMVDuration C:\WMVLOCATION" (without the quotes)
+
 
 Michael Crump
-@mbcrump
+
+[@mbcrump](https://www.twitter.com/mbcrump "@mbcrump")
+
 http://michaelcrump.net

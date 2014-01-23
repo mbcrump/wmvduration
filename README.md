@@ -10,3 +10,5 @@ Michael Crump
 [@mbcrump](https://www.twitter.com/mbcrump "@mbcrump")
 
 http://michaelcrump.net
+
+Write-Up: http://michaelcrump.net/getting-the-total-duration-of-wmv-files-in-a-directory
